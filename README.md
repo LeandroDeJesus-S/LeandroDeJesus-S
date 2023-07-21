@@ -17,7 +17,7 @@
 <br>
 <div style="display: flex; justify-content: space-around">
 
-<img href="https://github.com/LeandroDeJesus-S/animanage" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=animanage&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
+<img href="https://github.com/LeandroDeJesus-S/projeto-blog" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=projeto-blog&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
 
 <img href="https://github.com/LeandroDeJesus-S/projeto-adote" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=projeto-adote&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
 
