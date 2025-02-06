@@ -8,21 +8,25 @@
 </a>
 </div>
 
-<p>
-Desenvolvedor web back-end especializado em 
-Python, com experiência em Django, Flask e FastAPI 
-para criar aplicações eficientes e escaláveis.
-</p>
-<p>
 
-Também atuo com automação de processos, web 
-scraping e soluções básicas de IA, sempre focado 
-em otimização e resultados.
-</p>
 
-<div class="stats" style="display: grid; grid-template-columns: auto auto;">
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=LeandroDeJesus-S&theme=midnight-purple&show_icons=true&locale=pt-BR">
-<img style="width: 100%; max-height: 100%;" src="https://streak-stats.demolab.com/?user=LeandroDeJesus-S&theme=midnight-purple&locale=pt-BR">
+<div class="stats" style="display: flex;">
+  <div style="display: inline-block;">
+    <p>
+      Desenvolvedor web back-end especializado em 
+      Python, com experiência em Django, Flask e FastAPI 
+      para criar aplicações eficientes e escaláveis.
+    </p>
+    <p>
+      Também atuo com automação de processos, web 
+      scraping e soluções básicas de IA, sempre focado 
+      em otimização e resultados.
+    </p>
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeandroDeJesus-S&theme=midnight-purple&show_icons=true&locale=pt-BR">
+    <img src="https://streak-stats.demolab.com/?user=LeandroDeJesus-S&theme=midnight-purple&locale=pt-BR">
+  </div>
 </div>
 
 <hr style="margin-block: 2rem">
@@ -31,15 +35,15 @@ em otimização e resultados.
 
 <div class="projects" style="display: grid; grid-template-columns: auto auto auto;">
 <a href="https://github.com/LeandroDeJesus-S/sistema-de-hotel" style="display: inline;">
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=sistema-de-hotel&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=sistema-de-hotel&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
 </a>
 
 <a href="https://github.com/LeandroDeJesus-S/projeto-adote" style="display: inline;">
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=projeto-adote&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=projeto-adote&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
 </a>
 
 <a href="https://github.com/LeandroDeJesus-S/projeto-blog" style="display: inline;">
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=projeto-blog&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=projeto-blog&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
 </a>
 </div>
 
@@ -49,11 +53,11 @@ em otimização e resultados.
 
 <div class="projects" style="display: grid; grid-template-columns: auto auto;">
 <a href="https://github.com/LeandroDeJesus-S/django-simple-stripe" style="display: inline;">
-<img style="width: 100%;" height="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=django-simple-stripe&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=django-simple-stripe&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
 </a>
 
 <a href="https://github.com/LeandroDeJesus-S/loja-online" style="display: inline;">
-<img style="width: 100%;" height="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=loja-online&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDeJesus-S&repo=loja-online&bg_color=000&border_color=FFF&show_icons=true&icon_color=9500ff&title_color=8849b4&text_color=FFF">
 </a>
 </div>
 
@@ -67,20 +71,10 @@ em otimização e resultados.
 
 <h2 align="center"  style="font-size: 3rem;font-weight: 500;">Redes Sociais</h2>
 <div style="display: flex; justify-content: center;">
-<a href="https://www.linkedin.com/in/leandro-de-jesus-santos-0185a1261/">
+
+<a style="text-decoration: none" href="https://www.linkedin.com/in/leandro-de-jesus-santos-0185a1261/">
 <img  src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt=""/>
-</a>
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.instagram.com/_leandro_zz/">
-<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" />
-</a>
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
-
-<a href="mailto:leandrojs@proton.me">
-<img src="https://img.shields.io/badge/Proton_mail-black?style=for-the-badge&logo=protonmail&logoColor=9d8be0">
-</a>
+</a> <a style="text-decoration: none" href="https://www.instagram.com/_leandro_zz/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" /></a> <a style="text-decoration: none" href="mailto:leandrojs@proton.me"><img src="https://img.shields.io/badge/Proton_mail-black?style=for-the-badge&logo=protonmail&logoColor=9d8be0"></a>
 
 </div>
 
