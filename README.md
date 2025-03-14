@@ -11,7 +11,7 @@ Desenvolvedor web **back-end** especializado em Python, com experiência em Djan
 
 ---
 
-<h2 align="center" style="font-weight: 500;">📌 Principais Projetos</h2>
+<h3 align="center" style="font-weight: 500;">📌 Principais Projetos</h3>
 
 <div>
 <h3 style="font-weight: normal;font-size:1.25rem">
@@ -48,7 +48,7 @@ Um blog completo construido com python e django.
 
 ---
 
-<h2 align="center" style="font-weight: 500;">🛠 Principais projetos em Andamento</h2>
+<h3 align="center" style="font-weight: 500;">🛠 Principais projetos em Andamento</h3>
 
 <div>
 <h3 style="font-weight: normal;font-size:1.25rem">
@@ -83,40 +83,48 @@ Uma bibiloteca python para enviar logs para serviços como **Discord**, **Telegr
 
 ---
 
-<h2 align="center" style="font-weight: 500">🔋 Tecnologias e Ferramentas</h2>
+<h3 align="center" style="font-weight: 500">🔋 Tecnologias e Ferramentas</h3>
 
 <h3 style="font-weight: normal;font-size: 1.2rem">Linguagens</h3>
+<div style="display: flex">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-2496ED?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript"/>
+</div>
 
 <h3 style="font-weight: normal;font-size: 1.2rem">WEB</h3>
+<div style="display: flex">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Flask-5596a3?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</div>
 
 <h3 style="font-weight: normal;font-size: 1.2rem">Dados / IA</h3>
+<div style="display: flex">
 <img src="https://img.shields.io/badge/Tensorflow-e34e0e?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"/>
 <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=e34e0e" alt="pytorch"/>
 <img src="https://img.shields.io/badge/Numpy-d8dee3?style=for-the-badge&logo=numpy&logoColor=6da2d1" alt="numpy"/>
 <img src="https://img.shields.io/badge/Scikit Learn-518ea6?style=for-the-badge&logo=scikitlearn&logoColor=f99f44" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" alt="pandas"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff&style=for-the-badge" alt="PowerBI"/>
-
+</div>
 
 <h3 style="font-weight: normal;font-size: 1.2rem">Bacos de dados</h3>
-
+<div style="display: flex">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MySQL-518ea6?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-1d5934?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Redis-c22b44?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</div>
 
 <h3 style="font-weight: normal;font-size: 1.2rem">Outros</h3>
+<div style="display: flex">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
+</div>
 
 ---
 
-<h2 align="center"  style="font-weight: 500;"> 🌐 Redes Sociais</h2>
+<h3 align="center"  style="font-weight: 500;"> 🌐 Redes Sociais</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leandro-de-jesus-santos-0185a1261/">
