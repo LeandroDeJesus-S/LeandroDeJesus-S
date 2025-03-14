@@ -139,8 +139,8 @@ Uma bibiloteca python para enviar logs para serviços como **Discord**, **Telegr
 <a href="mailto:leandro.js.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail logo"/>
 </a>
-<a>
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge">
+<a href="https://discord.gg/QY2JkmrA">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge" alt="discord">
 </a>
 </p>
 
